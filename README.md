@@ -1,1 +1,3 @@
-# diabetes_model
+## diabetes_model
+
+Project goal is to model glucose level
